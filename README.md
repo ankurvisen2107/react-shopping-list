@@ -1,4 +1,4 @@
-# merpay-frontend-template_J275058451 React TypeScript Shopping List Component
+# React TypeScript Shopping List Component
 
 ## Available Scripts
 
