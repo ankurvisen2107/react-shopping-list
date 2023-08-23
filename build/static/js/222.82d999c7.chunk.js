@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmerpay_frontend_template_J275058451=self.webpackChunkmerpay_frontend_template_J275058451||[]).push([[222],{222:function(e,t,n){n.r(t);n(791);var i=n(189),r=n(62),s=n(199),a=n(184);t.default=function(e){var t=e.itemList;return(0,a.jsxs)(a.Fragment,{children:[0===t.length&&(0,a.jsx)(r.Z,{text:s.tF}),(0,a.jsx)("div",{className:"item-list",children:!!t&&t.map((function(e){return(0,a.jsx)(i.Z,{item:e,isDetailView:!1},e.id)}))})]})}}}]);
+//# sourceMappingURL=222.82d999c7.chunk.js.map

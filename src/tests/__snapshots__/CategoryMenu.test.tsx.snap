@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoryMenu component matches snapshot 1`] = `
+<div>
+  <div
+    class="tab-component"
+  >
+    <div
+      class="categories"
+    >
+      <div
+        class="tab active"
+      >
+        all (すべて)
+      </div>
+    </div>
+  </div>
+</div>
+`;
